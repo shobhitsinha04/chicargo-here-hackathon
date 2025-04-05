@@ -43,7 +43,7 @@ Uses the **existence score** from sign metadata.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Unzip the data files:
    ```bash
