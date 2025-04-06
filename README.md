@@ -23,6 +23,7 @@ Uses the **existence score** from sign metadata.
 - Segments topological data by motorway/pedestrian flags.  
 - Calculates perpendicular distance to roads in tile bounds.  
 - Reassigns signs to nearest valid motorway segment.
+- If nearest motorway segment is already assigned, move on to Scenario 3.
 
 ### Scenario 3: Incorrect Access Specifier  
 - Performs **average speed analysis**.  
